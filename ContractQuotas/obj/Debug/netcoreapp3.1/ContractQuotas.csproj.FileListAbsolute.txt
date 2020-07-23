@@ -1,0 +1,13 @@
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.csprojAssemblyReference.cache
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.AssemblyInfoInputs.cache
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.AssemblyInfo.cs
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.csproj.CoreCompileInputs.cache
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.exe
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.deps.json
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.runtimeconfig.json
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.runtimeconfig.dev.json
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.dll
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\bin\Debug\netcoreapp3.1\ContractQuotas.pdb
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.dll
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.pdb
+C:\Users\juan_\source\repos\ContractQuotas\ContractQuotas\obj\Debug\netcoreapp3.1\ContractQuotas.genruntimeconfig.cache
